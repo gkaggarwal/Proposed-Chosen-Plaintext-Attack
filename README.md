@@ -1,4 +1,6 @@
 # Chosen-Plaintext Attack on Template-Based TMS Encryption in IJTAG
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Software-Level: Python](https://img.shields.io/badge/Software--Level-Python-3776AB.svg)
 
 This repository contains Python implementations of our experimental setup and analysis presented in our paper on vulnerability assessment of template-based encryption in IJTAG architectures. The scripts demonstrate how an untrusted tester can exploit deterministic structures in the encryption process to compromise scan access through a chosen-plaintext attack.
 
