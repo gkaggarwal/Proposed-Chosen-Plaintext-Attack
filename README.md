@@ -9,6 +9,8 @@ This repository contains Python implementations of our experimental setup and an
 - `1 Existing_Scheme.ipynb`: Implements the original template-based TMS encryption scheme using a fixed binary pattern and SHAKE-256-generated bitstream.
 - `2 Proposed_Attack.ipynb`: Demonstrates the proposed offline attack that recovers the embedding templates used in the encrypted TMS bitstream using only two known plaintext inputs.
 - `3 Template_Coverage_Analysis.ipynb`: Statistically analyzes the probability of finding template patterns of varying lengths (1–20 bits) in a 128-bit SHAKE-256-generated random stream.
+- `4 Proposed_Scheme.ipynb`: The session depended LFSR based template generation and SHAKE‑driven sequential embedding countermeasure (LSB‑first embedding)
+
 
 ## 🚀 Getting Started
 
