@@ -4,6 +4,13 @@
 
 This repository contains Python implementations of our experimental setup and analysis presented in our paper on vulnerability assessment of template-based encryption in IJTAG architectures. The scripts demonstrate how an untrusted tester can exploit deterministic structures in the encryption process to compromise scan access through a chosen-plaintext attack.
 
+## 📌 Citation (If you use this code)
+If you use this repository (code, scripts, or experimental methodology) in your research, please cite our paper:
+
+**Gaurav Kumar, Pardeep Kumar, Anuj Kumar, Raj Kumar Choudhary, and Satyadev Ahlawat.**  
+“On Evaluating the Security of Complete Access Protocol of IJTAG Architecture”.  
+*In 59th International Symposium on Circuits and Systems Conference (ISCAS 2026), Shanghai, China, May 24–27, 2026.*
+
 ## 📁 Repository Structure
 
 - `1 Existing_Scheme.ipynb`: Implements the original template-based TMS encryption scheme using a fixed binary pattern and SHAKE-256-generated bitstream.
