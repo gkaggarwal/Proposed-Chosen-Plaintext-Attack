@@ -12,7 +12,6 @@ If you use this repository (code, scripts, or experimental methodology) in your 
 *In 59th International Symposium on Circuits and Systems Conference (ISCAS 2026), Shanghai, China, May 24–27, 2026.*
 
 ## BibTeX
-```bibtex
 @inproceedings{KumarISCAS2026IJTAG,
   author    = {Gaurav Kumar and Pardeep Kumar and Anuj Kumar and Raj Kumar Choudhary and Satyadev Ahlawat},
   title     = {On Evaluating the Security of Complete Access Protocol of IJTAG Architecture},
