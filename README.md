@@ -44,7 +44,7 @@ To run the encryption scheme:
 
 <pre>
 python 1_encryption_scheme.py
-<\pre>
+</pre>pre>
 
 ## 🛠️ License
 
