@@ -42,8 +42,9 @@ If you use this repository (code, scripts, or experimental methodology) in your 
 
 To run the encryption scheme:
 
-```bash
+<pre>
 python 1_encryption_scheme.py
+<\pre>
 
 ## 🛠️ License
 
